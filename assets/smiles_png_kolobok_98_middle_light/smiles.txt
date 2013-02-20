@@ -1,0 +1,99 @@
+25
+"Angel"         O:-)
+"Smile"         :-), :), =), =))
+"Sad"           :-(, :(, =(, =((
+"Ironic"        ;-), ;)
+"Cerisive"      :-P, :P, :-p, :p
+"Boss"          8-)
+"Xa-xa"         :-D, :D, =-D, =-d, :d, =d, :-d
+"Confusion"     :-[, :[, =-[, =[
+"Shock"         =-O, =O, :-O, :O, =-o, =o, :-o, :o
+"Kiss"          :-*, :*, =-*, =*
+"Sob"           :'(, ='(
+"Shut up"       :-X, :X, :-x, :x
+"Angry"         >:o, >=o, >:O, >=O
+"Stupid"        :-|, :|, =-|, =|
+"Suspirious"    :-/, =-/, =/
+"Jokingly"      *JOKINGLY*, *jokingly*
+"Devil"         ]:->, ]:>, ]=->, ]=>
+"Music"         [:-}, [:}, [=-}, [=}
+"Kissed"        *KISSED*, *kissed*
+"Illness"       :-!, :!, =-!, =!
+"Tired"         *TIRED*, *tired*
+"Stop"          *STOP*, *stop*
+"Kissing"       *KISSING*, *kissing*
+"Rose"          @}->--
+"Thumbs up"     *THUMBS UP*, *thumbs up*
+"Beer"          *DRINK*, *drink*
+"In love"       *IN LOVE*, *in love*
+"Bomb"          @=
+"Indefinite"    *HELP*, *help*
+"Snooty"        \m/, \M/
+"Crazy"         %)
+"OK"            *OK*, *ok*
+"Wass up"       *WASSUP*, *wassup*
+"Sorry"         *SORRY*, *sorry*
+"Bravo"         *BRAVO*, *bravo*
+"Rolf"          *ROFL*, *rofl*
+"Pardon"        *PARDON*, *pardon*
+"No"            *NO*, *no*
+"Crazy"         *CRAZY*, *crazy*
+"Dont know"     *DONT KNOW*, *dont know*, *DONT_KNOW*, *dont_know*
+"Dance"         *DANCE*, *dance*
+"Yahoo"         *YAHOO*, *yahoo*
+";D"             ;D
+"Strong"         *BB* , *STRONG*
+"BYE"            *BYE*, *bye*
+"Hi"             *HI*, *hi*
+"Happy"          *HAPPY*, *happy*
+"Rolf"           *ROFL*, *rofl*
+"SCRATCH"        *SCRATCH*, *scratch*
+"*YEEES!*"       *YEEES!*
+"*SMOKE*"        *SMOKE*
+"*BOSS*"         *BOSS*
+"*SARCASTIC*"    *SARCASTIC*
+"*BOAST*"        *BOAST*
+"*HOHO*"         *HOHO*
+"*db*"           *db*
+"*SHOUT*"        *SHOUT*
+"*VAVA*"         *VAVA*
+"*CENSORED*"     *CENSORED*
+"*SEARCH*"       *SEARCH*
+"*BEACH*"        *BEACH*
+"*FOCUS*"        *FOCUS*
+"*HUNTER*"       *HUNTER*
+"*GIRL_CRY*"     *GIRL_CRY*,*GIRL_CRAY*
+"*GIRL_CRAZY*"   *GIRL_CRAZY*
+"*HOSPITAL*"     *HOSPITAL*
+"*GIRL_IN_LOVE*" *GIRL_IN_LOVE*
+"*PINKGLASSES*"  *PINKGLASSES*
+"*HYSTERIC*"     *HYSTERIC*
+"*TENDER*"       *TENDER*
+"*SPRUSE_UP*"    *SPRUSE_UP*
+"*FLIRT*"        *FLIRT*
+"*GIVE_HEART*"   *GIVE_HEART*
+"*CURTSEY*"      *CURTSEY*
+"*FEMINIST*"     *FEMINIST*
+"*GIRL_DRINK*"   *GIRL_DRINK*
+"*HAHA*"         *HAHA*
+"*IMPOSSIBLE*"   *IMPOSSIBLE*
+"*SIGH*"         *SIGH*
+"X-)"            X-),X)
+"*SLOW*"         *SLOW*
+"*MOIL*"         *MOIL*,*JOB*
+"*YES*"          *YES*
+"*MEGA_SHOK*"    *MEGA_SHOK*
+"*THANK*"        *THANK*
+"*KING*"         *KING*
+"*LAZY*"         *LAZY*
+"*FRIEND*"       *FRIEND*
+"*PUNISH*"       *PUNISH*
+"*WIZARD*"       *WIZARD*
+"*V*"            *V*
+"*SPITEFUL*"     *SPITEFUL*
+"*TEASE*"        *TEASE*
+"*SCARE*"        *SCARE*
+"*THIS*"         *THIS*
+"*PAINT*"        *PAINT*
+"*TRAINING*"     *TRAINING*
+"*PARTY*"        *PARTY*

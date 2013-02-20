@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Смайлы для Jimm</string>
+    <string name="install">Установить</string>
+    <string name="app_description">Выбирите смайлы для установки</string>
+    <string name="uninstall">Удалить</string>
+</resources>

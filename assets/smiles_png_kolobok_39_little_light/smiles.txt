@@ -1,0 +1,40 @@
+25
+"Angel"      O:-)
+"Smile"      :-), :), :-)), :)), =), =)), ))
+"Sad"        :-(, :(, :-((, :((, =(, =((, ((
+"Ironic"     ;-), ;)
+"Cerisive"   :-P, :P, :-p, :p
+"Boss"       8-)
+"Xa-xa"      :-D, :D, =-D, =-d, :d, =d, :-d
+"Confusion"  :-[, :[, =-[, =[
+"Shock"      =-O, =O, :-O, :O, =-o, =o, :-o, :o
+"Kiss"       :-*, :*, =-*, =*
+"Sob"        :'(, ='(
+"Shut up"    :-X, :X, :-x, :x
+"Angry"      >:o, >=o, >:O, >=O
+"Stupid"     :-|, :|, =-|, =|
+"Jokingly"   *JOKINGLY*, *jokingly*
+"Devil"      ]:->, ]:>, ]=->, ]=>
+"Music"      [:-}, [:}, [=-}, [=}
+"In love"    *IN LOVE*, *in love* *IN_LOVE*, *in_love*
+"Illness"    :-!, :!, =-!, =!
+"Suspirious" :-/, =-/, =/
+"Rose"       @}->--
+"Thumbs up"  *THUMBS UP*, *thumbs up*
+"Beer"       *DRINK*, *drink*
+"Give heart" *GIVE_HEART*, *give heart*, *GIVE HEART*, *give heart*
+"Bomb"       @=
+"Crazy"      %)
+"Wass up"    *WASSUP*, *wassup*
+"Sorry"      *SORRY*, *sorry*
+"Bravo"      *BRAVO*, *bravo*
+"Rolf"       *ROFL*, *rofl*
+"Pardon"     *PARDON*, *pardon*
+"No"         *NO*, *no*
+"Crazy"      *CRAZY*, *crazy*
+"Dont know"  *DONT_KNOW*, *dont_know*, *DONT KNOW*, *dont know*
+"Dance"      *DANCE*, *dance*
+"Yahoo"      *YAHOO*, *yahoo*
+"BYE"        *BYE*, *bye*
+";D"         ;D
+"SCRATCH"    *SCRATCH*, *scratch*

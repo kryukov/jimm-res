@@ -1,0 +1,50 @@
+25
+"Smile" :-), :), =), =)), :-)), :)), +)
+"Sad" :-(, :(, +(, =(, :-((, :((, +((, =((
+"Ironic" ;-), ;), ^_~
+"Tongue" :-P, :P, :-p, :p, +P, =P, +p, =p, :-b, :b, +b, =b
+"Boss" 8-), 8), B-), B), (H), (h), B-D, BD, B-|
+"Big Grin" :-D, :D, +D, =D, :-)))), :)))), =)))), *BIGGRIN*
+"Embarrassed" :-[, :[, (e), (E), :'), :'-), ='), ;'>, ;-.
+"Angel" O:-), O:), O+), O=), 0:-), 0:), 0+), 0=), (A), (a)
+"Shock" =-O, =O, =-o, O_O, O_o, o_O
+"Lips" :-*, :*, :-{}, :{}, +{}, ={}, ^.^, *KISS*
+"Crying" :'(, :'-(, :"(, ;-(, ;(, ='(, *CRY*
+"Secret" :-X, :-x, :-#, :#, *SECRET*
+"Angry" >:o, >:O, >+O, >:o, >+o, >=O, >=o, :-@, *ANGRY*
+"Stupid" :-|, :|, =|, *ERMM*, *ermm*
+"Suspicious" :-\, :-/, =/, =\, *BEEE*
+"Jokingly" *JOKINGLY*, *jokingly*, :o)
+"Devil" ]:->, }:->, ]:>, }:>, >:-], >:], (6), *DIABLO*, *DEVIL*, *MAD*
+"Music" [:-}, [:}, [:-), [:), *MUSIC*
+"Rose" @}->--, @}-:--, @>}--`---, (F), (f), @}->-, @};-
+"Sick" :-!, :!, :-~, ;-~, :(~, +(~, =(~, *SICK*
+"Tired" *TIRED*, *BOREDOM*, |-0
+"Stop" *STOP*, *stop*
+"Kissing" *KISSING*
+"Kissed" *KISSED*, :"), :"), :-")
+"Thumbs Up" *THUMBS UP*, *THUMBS_UP*, *THUMBSUP*, *GOOD*, (y), (Y), *HAPPY*
+"Drink" *DRINK*, *BEER*, *beer*, (B), (b)
+"In Love" *IN LOVE*, *IN_LOVE*, *INLOVE*, *GIVE_HEART*
+"Bomb" @=
+"Help" *HELP*, *SOS*, *help*, *HELP_ME*, (help)
+"Coolboy" \m/, *COOLBOY*, *ROCK*, *PUNK*, *SYSTEM*
+"Wacko" %), %-), :-$, :$, *WACKO*, X-)
+"OK" *OK*, (ok), (OK), *ok*
+"Wassup" *WASSUP*, *SUP*, *MAMBA*
+"Sorry" *SORRY*
+"Bravo" *BRAVO*, *CLAPPING*
+"ROFL" *ROFL*, *ROTFL*, *LOL*, :-))))), :-)))))), :))))), :)))))), =))))), =))))))
+"Pardon" *PARDON*, =]
+"No" *NO*
+"Crazy" *CRAZY*, *GAMER*
+"Don't Know" *DONT_KNOW*, *DONT KNOW*, *UNKNOWN*
+"Dance" *DANCE*
+"Yahoo" *YAHOO*
+"Hello" *HI*, *PREVED*, *PRIVET*, *HELLO*
+"Bye" *BYE*
+"Yes" *YES*
+"Acute" ;D, *ACUTE*
+"Wall" *WALL*, *DASH*
+"Write" *WRITE*, *MAIL*
+"Scratch" *SCRATCH*

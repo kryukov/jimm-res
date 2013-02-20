@@ -1,0 +1,50 @@
+72
+"O:-)"   O:-),O=)
+":-)"   :-),:),=)
+":-("   :-(,:(,;(
+";-)"   ;-),;)
+":-P"   :-P
+"8-)"   8-)
+":-D"   :-D
+":-["   :-[
+"=-O"   =-O
+":-*"   :-*
+":'("   :'(
+":-X"   :-X,:-x
+">:o"   >:o
+":-|"   :-|
+":-\"   :-\,:-/
+"JOKINGLY"   *JOKINGLY*
+"]:->"   ]:->
+"[:-}"   [:-}
+"KISSED"   *KISSED*
+":-!"   :-!
+"TIRED"   *TIRED*
+"STOP"   *STOP*
+"KISSING"   *KISSING*
+"@}->--"   @}->--
+"THUMBS UP"   *THUMBS UP*
+"DRINK"   *DRINK*
+"IN LOVE"   *IN LOVE*
+"@="   @=
+"HELP"   *HELP*
+"\m/"   \m/
+"%)"   %)
+"OK"   *OK*
+"WASSUP"   *WASSUP*,*SUP*
+"SORRY"   *SORRY*
+"BRAVO"   *BRAVO*
+"ROFL"   *ROFL*,*LOL*
+"PARDON"   *PARDON*
+"NO"   *NO*
+"CRAZY"   *CRAZY*
+"DONT KNOW"   *DONT_KNOW*,*UNKNOWN*
+"DANCE"   *DANCE*
+"YAHOO"   *YAHOO*,*YAHOO!*
+"HI"   *HI*,*PREVED*,*PRIVET*,*HELLO*
+"BYE"   *BYE*
+"YES"   *YES*
+";D"   ;D,*ACUTE*
+"WALL"   *WALL*,*DASH*
+"WRITE"   *WRITE*,*MAIL*
+"SCRATCH"   *SCRATCH*
